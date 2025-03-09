@@ -5,7 +5,6 @@
 <p>🍀 Design & Dev: Adobe Creative Suite, Figma, HTML, CSS, JavaScript, <em>(Java & Python?)</em></p>
 <p>💡 Goal: Become a Graphics Designer, Front-End Developer, and Audio Engineer</p>
 <p>🔥 Music & Audio: FL Studio, Recording, Mixing & Mastering</p>
-<br>
 
 ## About me:  
 - <SMALL>🍁 **Fun fact:** I earned $100 from my first freelance when I was 16.</small>  
