@@ -8,8 +8,8 @@
 <br>
 
 ## About me:  
-- <SMALL>🍁 Fun fact: I earned $100 from my first freelance when I was 16.</small>  
-- <small>📫 Reach me: ogdev.work@gmail.com</small>  
+- <SMALL>🍁 **Fun fact:** I earned $100 from my first freelance when I was 16.</small>  
+- <small>📫 **Reach me:** ogdev.work@gmail.com</small>  
 - <small>💬 Ask me about anything related to my niche.</small>  
 
 ## Language and Tools:  
