@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Carl🤘</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">Aspring Unicorn Developer</h3>
 
 <small>🌊Learning: UI/UX, Web Design and Development, Multimedia Arts, Audio Production</small><br>
 <small>🍀Design & Dev: Adobe Creative Suite, Figma, HTML, CSS, JavaScript, _(Java and Python?)_</small><br>
