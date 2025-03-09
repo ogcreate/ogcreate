@@ -1,10 +1,10 @@
 <h1 align="center">Hi , I'm Carl🤘</h1>
 <h3 align="center">An Aspiring Unicorn Developer</h3>
 
-<small>🌊Learning: UI/UX, Web Design and Development, Multimedia Arts, Audio Production</small><br>
-<small>🍀Design & Dev: Adobe Creative Suite, Figma, HTML, CSS, JavaScript, _(Java and Python?)_</small><br>
-<small>💡Goal: Become a graphics designer, front-end developer, and audio engineer</small><br>
-<small>🔥Music & Audio: FL Studio, Recording, Mixing & Mastering</small>
+<p>🌊 Learning: UI/UX, Web Design & Development, Multimedia Arts, Audio Production</p>
+<p>🍀 Design & Dev: Adobe Creative Suite, Figma, HTML, CSS, JavaScript, <em>(Java & Python?)</em></p>
+<p>💡 Goal: Become a Graphics Designer, Front-End Developer, and Audio Engineer</p>
+<p>🔥 Music & Audio: FL Studio, Recording, Mixing & Mastering</p>
 <br>
 
 ## About me:  
