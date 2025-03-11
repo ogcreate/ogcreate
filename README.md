@@ -13,44 +13,27 @@
 
 ## Language and Tools:  
 
-<p align="left"> 
+<div align="left">
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" /></code>
+  <img width="12" />
+  <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30" alt="figma logo" /></code>
+  <img width="12" />
+  <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="30" alt="illustrator logo" /></code>
+  <img width="12" />
+  <code><img src="https://github.com/ogcarl/ogcarl/blob/main/images/photoshop.png" height="30" alt="Photoshop logo" /></code>
+  <img width="12" />
+  <code><img src="https://github.com/ogcarl/ogcarl/blob/main/images/flstudio.png" height="30" alt="FL Studio logo" /></code>
+</div>
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ogcarl/ogcarl/blob/main/images/photoshop.png" alt="Photoshop" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ogcarl/ogcarl/blob/main/images/flstudio.png" alt="FL Studio" width="40" height="40"/>
-  </a> 
-
-</p>
 
 ---
 
-<small><em>I love conversations that spark wisdom, knowledge, and virtue on any topic. If you want to connect or just share ideas, hmu! :D</em></small>
+<em><b>I love conversations that spark wisdom, knowledge, and virtue on any topic. If you want to connect or just share ideas, hmu! :D</b></em>
 
 ---
