@@ -1,4 +1,10 @@
+
+
 <h1 align="center">Hi , I'm Carl🤘</h1>
+
+
+<!-- <img src="https://github.com/ogcreate/ogcreate/blob/main/images/og-logo.png" height="100px" ></img> -->
+
 <h3 align="center">An Aspiring Unicorn Developer</h3>
 
 <p>🌊 Learning: UI/UX, Web Design & Development, Multimedia Arts, Audio Production</p>
