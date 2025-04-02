@@ -28,6 +28,8 @@
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" /></code>
   <img width="12" />
+  <code><img src="https://pluspng.com/img-png/firebase-logo-png-firebase-google-icon-512x512.png" height="30" alt="firebase logo "/></code>
+  <img width="12" />
   <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30" alt="figma logo" /></code>
   <img width="12" />
   <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="30" alt="illustrator logo" /></code>
