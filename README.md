@@ -1,7 +1,16 @@
+<p align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHllZzd3NGExeWMxa2xqY3d2ZGZsOTQ1bDBvYXc5c3Rpdm1ycDlwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1G8jQehwWp9fy/giphy.gif" > 
+<!--  <img src="https://media1.tenor.com/m/WSPawjhULdIAAAAd/megamind-cartoon.gif"> !-->
+</p>
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/KbXyTm7I0WIAAAAC/rajni-robo.gif" width="300">
+  <img src="https://media1.tenor.com/m/hm6dEqOq7q8AAAAd/endhiran-chitti.gif" width="320">
+</p>
 
-
-![Hello World Rajinikanth](https://media1.tenor.com/m/GCm3-of-828AAAAd/hello-world-rajinikanth.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/qepMkvoqXjYAAAAC/dancing-megamind.gif" >
+</p>
 
 
 
