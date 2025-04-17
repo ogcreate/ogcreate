@@ -1,10 +1,20 @@
 
 
+
+![Hello World Rajinikanth](https://media1.tenor.com/m/GCm3-of-828AAAAd/hello-world-rajinikanth.gif)
+
+
+
+
+
+
+<!--
+
 <h1 align="center">Hi , I'm Carl🤘</h1>
 
 
 <!-- <img src="https://github.com/ogcreate/ogcreate/blob/main/images/og-logo.png" height="100px" ></img> -->
-
+<!--
 <h3 align="center">An Aspiring Unicorn Developer</h3>
 
 <p>🌊 Learning: UI/UX, Web Design & Development, Multimedia Arts, Audio Production</p>
@@ -45,3 +55,5 @@
 <em><b>I love conversations that spark wisdom, knowledge, and virtue on any topic. If you want to connect or just share ideas, hmu! :D</b></em>
 
 ---
+
+ --!>
