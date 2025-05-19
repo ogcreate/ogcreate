@@ -15,7 +15,9 @@
 
 
 
-
+<p align="center">
+  <img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/snake.svg" width="100%" alt="Snake animation" />
+</p>
 
 <!--
 
